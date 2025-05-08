@@ -1,1 +1,2 @@
-# gstcal
+# GSTCalculator
+# Percentage Calculator
